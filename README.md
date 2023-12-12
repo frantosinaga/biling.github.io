@@ -1,8 +1,5 @@
 # PHPNuxBill - PHP Mikrotik Billing
 
-![PHPNuxBill](install/img/logo.png)
-
-![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
 
 ## Feature
 
@@ -85,17 +82,3 @@ see LICENSE file
 
 ## [CHANGELOG](CHANGELOG.md)
 
-## Donate to ibnux
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
-
-BCA: 5410454825
-
-Mandiri: 163-000-1855-793
-
-a.n Ibnu Maksum
-
-## SPONSORS
-
-- [mlink.id](https://mlink.id)
-- [https://github.com/sonyinside](https://github.com/sonyinside)
