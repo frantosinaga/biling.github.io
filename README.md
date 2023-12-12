@@ -64,15 +64,7 @@ Support [Freeradius with Database](https://github.com/hotspotbilling/phpnuxbill/
 - [Github Discussion](https://github.com/hotspotbilling/phpnuxbill/discussions)
 - [Telegram Group](https://t.me/phpmixbill)
 
-## Technical Support
 
-Start from Rp 500.000 or $50
-
-If you chat me for any technical support, you need to pay, except for Donors, ask anything for free in the [discussion](/hotspotbilling/phpnuxbill/discussions) page
-
-[Telegram](https://t.me/ibnux)
-
-[Website](https://ibnux.net/layanan)
 
 ## License
 
